@@ -11,5 +11,13 @@ class trunfo:
         shuffle(cartas)
         return cartas
     
+#A1 = 
 A2 = trunfo('Napoleão Bonaparte', 52, 160000000000, 10)
+#A3 = 
 A4 = trunfo('Cleópata', 39, 9800000000000,21)
+#A5 = 
+#A6 =
+#A7 =
+#A8 =
+
+cartas = [A2, A4]
